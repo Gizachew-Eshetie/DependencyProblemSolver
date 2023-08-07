@@ -1,11 +1,4 @@
-You can provide you solution however you see fit.
-Some options that we have used in the past are BitBucket, GitHub, https://dotnetfiddle.net/, or a zip file
-emailed.
- 
-Thank and good luck!
- 
-----------------------------------------------
- 
+
 Create a C# program that solves the following dependency problem:
  
 A person needs to figure out which order his/her clothes need to be put on. 
