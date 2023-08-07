@@ -41,7 +41,13 @@ sorted, comma separated.
  
 Therefore, the output for this sample file would be:
  
-left sock,right sock,t-shirt\r\ndress shirt\r\npants,tie\r\nbelt\r\nsuit jacket\r\nleft shoe,right shoe,sun glasses\r\novercoat\r\n
+        left sock,right sock,t-shirt
+        dress shirt
+        pants,tie
+        belt
+        suit jacket
+        left shoe,right shoe,sun glasses
+        overcoat
  
 Evaluation Criteria
  
